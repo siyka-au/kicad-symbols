@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT8610AC
+D 42V, 3.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current, 0.8V Feedback Voltage, 3.0V Minimum Vin, MSOP-16
+K high efficiency speed synchronous monolithic buck step-down switching regulator 42V 3.5A lower feedback voltage minimum vin
+F https://www.analog.com/media/en/technical-documentation/data-sheets/8610acfa.pdf
+$ENDCMP
+#
+$CMP LT8610AC-1
+D 42V, 3.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current, Internal Compensation for Improved Transient, Soft-Start at Dropout and Brownout, MSOP-16
+K high efficiency speed synchronous monolithic buck step-down switching regulator 42V 3.5A lower feedback voltage minimum vin internal compensation soft-start
+F https://www.analog.com/media/en/technical-documentation/data-sheets/8610acfa.pdf
+$ENDCMP
+#
+$CMP UM1661
+F http://www.union-ic.com/Upload/Datasheet/Datasheet_UM1661_Rev05.pdf
+$ENDCMP
+#
+#End Doc Library

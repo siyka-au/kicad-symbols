@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3060
+D 150mA, Dual Low Dropout Linear Regulator, Positive/Negative Low Noise, Adjustable Output, DFN-14
+K LDO low noise
+F https://www.analog.com/media/en/technical-documentation/data-sheets/lt3060.pdf
+$ENDCMP
+#
+$CMP LT3060xTS8-3.3
+D 150mA, Dual Low Dropout Linear Regulator, Positive/Negative Low Noise, 3.3V Output, TSOT-23-8
+K LDO low noise
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3032ff.pdf
+$ENDCMP
+#
+#End Doc Library

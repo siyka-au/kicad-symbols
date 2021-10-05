@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RV-3129-C3
+D Realtime Clock/Calendar I²C Interface, Low Power, 1.2 V to 5.5 V, MicroCrystal C3
+F https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3129-C3.pdf
+$ENDCMP
+#
+$CMP RV-3149-C3
+D Realtime Clock/Calendar SPI Interface, Low Power, 1.2 V to 5.5 V, MicroCrystal C3
+F https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3149-C3.pdf
+$ENDCMP
+#
+#End Doc Library

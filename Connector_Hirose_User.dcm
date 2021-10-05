@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Hirose_DF40C-90DS-0.4V(51)
+D DF40 Series, 0.4mm Pitch, 1.5 to 4.0mm Height, Board-to-Board and Board-to-FPC Connectors, 2x45
+K connector hirose board fpc
+F https://www.hirose.com/en/product/document?clcode=CL0684-4124-8-51&productname=DF40C-90DS-0.4V(51)&series=DF40&documenttype=SpecSheet&lang=en&documentid=0000427780
+$ENDCMP
+#
+#End Doc Library

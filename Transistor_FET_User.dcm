@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Si2323DS
+D -4.7A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://www.vishay.com/docs/72024/72024.pdf
+$ENDCMP
+#
+#End Doc Library

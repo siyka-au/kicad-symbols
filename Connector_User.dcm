@@ -1,0 +1,91 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ31_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ32_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ33_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ34_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ35_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ41_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ45_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ49_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP RJ61_Shielded
+D RJ connector, 8P8C (8 positions 8 connected), Shielded
+K 8P8C RJ female connector
+F ~
+$ENDCMP
+#
+$CMP Weidmüller_1804710000
+D Series BL/SL 3.50 connector, single row, 01x03, SL-SMT 3.50/03/180LF 1.5SN BK BX
+K connector
+F https://catalog.weidmueller.com/procat/Product.jsp?productId=([1804710000])&page=Product
+$ENDCMP
+#
+$CMP Weidmüller_1842550000
+D Series BL/SL 3.50 connector, single row, 01x03, SL-SMT 3.50/03/180LF 3.2SN BK BX
+K connector
+F https://catalog.weidmueller.com/procat/Product.jsp?productId=([1804710000])&page=Product
+$ENDCMP
+#
+$CMP Weidmüller_1842620000
+D Series BL/SL 3.50 connector, single row, 01x10, SL-SMT 3.50/10/180LF 3.2SN BK BX
+K connector
+F https://catalog.weidmueller.com/procat/Product.jsp?productId=([1842620000])&page=Product
+$ENDCMP
+#
+$CMP Würth_615008138221
+D RJ connector, 8P8C (8 positions 8 connected), RJ45, Shielded
+K 8P8C RJ female connector
+F https://www.we-online.com/catalog/datasheet/615008138221.pdf
+$ENDCMP
+#
+$CMP Würth_74981102100
+F https://www.we-online.com/catalog/datasheet/74981102100.pdf
+$ENDCMP
+#
+$CMP Würth_74990101210
+D LAN Transformer Jack, RJ45, 10/100 BaseT
+K lan jack transformer
+F https://www.we-online.com/catalog/datasheet/74990101210.pdf
+$ENDCMP
+#
+#End Doc Library

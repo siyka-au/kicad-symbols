@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Molex_054132-4033
+D Easy-On FFC/FPC Connector, 0.50mm Pitch, Slider Series, Right-Angle, Bottom Contact, 2.00mm Height, 40 Circuits, Tin-Silver-Bismuth Plating
+K connector FFC FPC
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/0541324033_FFC_FPC_CONNECTORS.pdf
+$ENDCMP
+#
+$CMP Molex_52207-0633
+D Easy-On FFC/FPC Connector, 1.00mm Pitch, Slider Series, Right-Angle, Top Contact, 2.70mm Height, 6 Circuits, Tin-Silver-Bismuth Plating
+K connector FFC FPC
+F https://www.molex.com/molex/products/part-detail/ffc_fpc_connectors/0522070633
+$ENDCMP
+#
+#End Doc Library

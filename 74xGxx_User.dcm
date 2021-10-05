@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AUC2G125
+D Dual Buffer Tri-State, Low-Voltage CMOS
+K Dual Buff Tri-State LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74AUC2G32
+D Dual OR Gate, Low-Voltage CMOS
+K Dual Gate OR LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G125
+D Dual Buffer Tri-State, Low-Voltage CMOS
+K Dual Buff Tri-State LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G32
+D Dual OR Gate, Low-Voltage CMOS
+K Dual Gate OR LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+#End Doc Library

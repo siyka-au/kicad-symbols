@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# BOM_Sub
+#
+DEF BOM_Sub U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "BOM_Sub" 0 0 50 H V C CNN
+F2 "BOM:BOM_Sub" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 3 0 1 0 150 250 150 200 200 200 N
+P 6 0 1 0 -150 -250 200 -250 200 200 150 250 -150 250 -150 -250 N
+ENDDRAW
+ENDDEF
+#
+#End Library

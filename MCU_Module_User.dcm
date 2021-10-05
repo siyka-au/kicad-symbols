@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DART-6UL
+F https://www.variscite.com/wp-content/uploads/2018/01/DART-6UL_DART-6UL-5G-Datasheet.pdf
+$ENDCMP
+#
+$CMP Seeed-SOM-STM32MP157C
+K SOM Seeed STM32MP1
+F https://wiki.seeedstudio.com/SEEED-SOM-STM32MP157C/
+$ENDCMP
+#
+#End Doc Library
