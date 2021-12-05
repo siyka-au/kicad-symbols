@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1663T-E_OT
+D 32V Step-up LED driver with PWM, 2.7-5.5Vin, 375mA Iout max, SOT23-5
+K LED driver single
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005406A.pdf
+$ENDCMP
+#
+#End Doc Library
